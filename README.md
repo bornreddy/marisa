@@ -1,0 +1,1 @@
+This personal site is written in node.js and hosted on ec2. 

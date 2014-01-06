@@ -1,0 +1,1 @@
+ssh -i trial.pem ubuntu@54.201.171.250
