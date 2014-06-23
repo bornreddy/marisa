@@ -3,5 +3,5 @@
  */
 
 exports.m = function(req, res){
-    res.render('marisa');// { title: 'Marisa' });
+    res.render( 'marisa' ,{ title: 'Marisa' });
 };
