@@ -2,6 +2,6 @@
  * Testing Marisa page.
  */
 
-exports.index = function(req, res){
-    res.render('index', { title: 'Marisa' });
+exports.m = function(req, res){
+    res.render('marisa', { title: 'Marisa' });
 };
