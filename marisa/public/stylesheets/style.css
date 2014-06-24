@@ -10,3 +10,9 @@ a {
 body {
   background: url('/images/white-wood.jpg') repeat;
 }
+
+img {
+  position: relative;
+  top: 10%;
+  left: 40%;
+}
