@@ -19,3 +19,10 @@ img {
   margin-top: -300px; /* Half the height */
   margin-left: -250px;
 }
+
+.marisa {
+  width: 300px;
+  height: 300px;
+  margin-top: -150px; /* Half the height */
+  margin-left: -150px;
+}
